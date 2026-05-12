@@ -1,0 +1,752 @@
+[
+  {
+    "question": "What is a modern charcoal grey L-sectional sofa with reversible cushions and metal legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Edgewest Low Back Modern Right L-Sectional, 116\"W, Charcoal Grey",
+    "product_id": "B07BWM2CR9"
+  },
+  {
+    "question": "What is a hand-crafted leather 2 seater maxi sofa with adjustable headrest in taupe color?",
+    "ground_truth_answer": "Amazon Brand - Alkove Elvas Hand-Crafted Leather Sofa, 2 Seater Maxi, 102 x 193 x 93cm, Taupe",
+    "product_id": "B07HPQ7HB5"
+  },
+  {
+    "question": "What is a black wood console table with a classic plank-top design and a large drawer?",
+    "ground_truth_answer": "Ravenna Home Classic Plank-Top Console Table with Large Drawer, 42\"W, Black Wood",
+    "product_id": "B07MM5H3HX"
+  },
+  {
+    "question": "What is a mocha-colored three-seater recliner with high durability and meets European standards?",
+    "ground_truth_answer": "Amazon Brand - Solimo Capri Three Seater Fabric Recliner (Mocha)",
+    "product_id": "B07FKS45HW"
+  },
+  {
+    "question": "What is a gold and glass end table with storage from Amazon's brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Parker Storage End Table, 23.6\"W, Glass & Gold",
+    "product_id": "B07DBB1NJ1"
+  },
+  {
+    "question": "What is a small rectangular grey ottoman with pine wood legs?",
+    "ground_truth_answer": "Red Hook Leda Rectangular Upholstered Ottoman Bench - 27 x 14.5 x 18.5 Inches, Stone Grey",
+    "product_id": "B07D4FS7GY"
+  },
+  {
+    "question": "What is a beige sofa with nailhead trim and retro flair available on Amazon?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Raymond Casual Nailhead Trim Sofa, 76\"W, Beige",
+    "product_id": "B07DB8XGY2"
+  },
+  {
+    "question": "What is a stylish oak cabinet with dimensions 51 x 129 x 191 cm that is easy to assemble?",
+    "ground_truth_answer": "Movian Indre Bedroom Furniture",
+    "product_id": "B07GFW9GFX"
+  },
+  {
+    "question": "What is a mid-century minimalist office chair with height and tilt adjustments in grey and chrome?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Contemporary Office Desk Chair, 33\"-36\", Grey/Chrome",
+    "product_id": "B07B7DL3H8"
+  },
+  {
+    "question": "What is a classic dark espresso desk with a 39.4-inch width?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Classic Desk, 39.4\"W, Dark Espresso",
+    "product_id": "B07QD6V1VT"
+  },
+  {
+    "question": "What is a king-size headboard in glazed mocha finish with oak veneers?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Aikins Modern King Bed Headboard, 84\"W, Glazed Mocha",
+    "product_id": "B07QFRSM3N"
+  },
+  {
+    "question": "What is a comfortable armless chair with a pillow-top and metal casters?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Elmore Pillow-Top Armless Chair, 24\"W, Iron",
+    "product_id": "B075X4JJL7"
+  },
+  {
+    "question": "What is a mid-century modern sofa with a channeled back and tapered wood legs in felt grey?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Damien Mid-Century Modern Channel-Backed Sofa, 87\"W, Felt Grey",
+    "product_id": "B07QFP4ZRG"
+  },
+  {
+    "question": "What is a black faux leather wingback accent chair with nailhead trim and easy assembly?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Contemporary Faux Leather Nailhead Wingback Accent Chair, 28.5\"W, Black",
+    "product_id": "B07DBDZ3WW"
+  },
+  {
+    "question": "What is a modern living room chair with reversible cushions and metal legs in Ecru color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Emerly Modern Living Room Chair, 41\"W, Ecru",
+    "product_id": "B072PZ4LQ2"
+  },
+  {
+    "question": "What is a sleeper chair with a pull-out bed and linen fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Fischer Sleeper Chair, 51\"W, Linen Fabric",
+    "product_id": "B07HZ4918H"
+  },
+  {
+    "question": "What is a swivel accent chair in Melrose Blue with a metal base and no assembly required?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Larkin Living Room Accent Swivel Chair, 30\"W, Melrose Blue",
+    "product_id": "B075X33RZL"
+  },
+  {
+    "question": "What is a sophisticated lounge chair with sand polyblend upholstery and a Java finish?",
+    "ground_truth_answer": "Pinzon Hardwood Lounge Chair with Sand Polyblend Upholstery, Java",
+    "product_id": "B0011MXVLQ"
+  },
+  {
+    "question": "What is a set of 2 outdoor dining arm chairs made of cast aluminum with a scrolling lattice motif?",
+    "ground_truth_answer": "Strathwood Whidbey Cast-Aluminum Dining Arm Chair, Set of 2",
+    "product_id": "B00GBVDLMQ"
+  },
+  {
+    "question": "What is a tan L-sectional sofa with track arms and reversible cushions?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Andover Modern Right L-Sectional Sofa, 124\"W, Tan",
+    "product_id": "B07B4MSYPS"
+  },
+  {
+    "question": "What is a navy-colored adjustable floor sofa with memory foam that can be used for gaming and reading?",
+    "ground_truth_answer": "Amazonbasics Adjustable Foam Floor Sofa, Navy",
+    "product_id": "B07Q3Y23R3"
+  },
+  {
+    "question": "What is a modern armless living room accent chair with a shell color and minimal assembly?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Lummi Modern Armless Living Room Accent Chair, 21.6\" W, Shell",
+    "product_id": "B071PDYKYB"
+  },
+  {
+    "question": "What is a modern floating wall shelf with a natural wood and gold design?",
+    "ground_truth_answer": "Rivet Modern Floating Wall Mounted Shelving Decor - 9 Inch, Natural Wood and Gold (Renewed)",
+    "product_id": "B07WP9CX8V"
+  },
+  {
+    "question": "What is a deep down-filled leather accent chair in dark grey?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Leather Accent Chair, 43.3\"W, Dark Grey",
+    "product_id": "B082VL7BQ1"
+  },
+  {
+    "question": "What is a white wash finish storage bench with a cushion and cabinet for shoes?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Classic Solid Pine Storage Bench, 45\"W, White Wash Finish",
+    "product_id": "B07M6PKCQQ"
+  },
+  {
+    "question": "What is a grey ceramic garden stool with a damask pattern that can also be used as a side table?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Damask-Pattern Ceramic Garden Stool or Side Table, 16\"H, Grey",
+    "product_id": "B07M6PKCM3"
+  },
+  {
+    "question": "What is a sand-colored sofa with a chaise that is durable and stain-resistant?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Dalton Sofa Couch with Chaise, Sand",
+    "product_id": "B07BWLJRCD"
+  },
+  {
+    "question": "What are some mid-century style dining chairs with dark green velvet upholstery and gold legs?",
+    "ground_truth_answer": "Rivet Mid-Century Luxe Velvet Dining Chair, 34.1\"H, Set of 2, Dark Green",
+    "product_id": "B07QGWQM5D"
+  },
+  {
+    "question": "What is a comfortable high-back executive office chair with bonded black leather and pneumatic seat height adjustment?",
+    "ground_truth_answer": "AmazonBasics High-Back Bonded Leather Executive Office Computer Desk Chair - Black (Renewed)",
+    "product_id": "B087ZFFSZB"
+  },
+  {
+    "question": "What is a brown chair from Ravenna Home that requires no assembly?",
+    "ground_truth_answer": "Brown Swatch, Ravenna Home",
+    "product_id": "B07KRB8CGW"
+  },
+  {
+    "question": "What is a modern ottoman that doubles as a storage space and tray, available in marshmallow color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Madison Modern Fabric Round Lift-Top Storage Tray Ottoman Pouf, 19.7\"W, Marshmallow (Renewed)",
+    "product_id": "B08CD2924F"
+  },
+  {
+    "question": "What is a warm grey Chesterfield tufted sofa with extra wide seating and high performance upholstery?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Bradbury Chesterfield Tufted Sofa Couch, 92.9\"W, Warm Grey",
+    "product_id": "B07CB54MM3"
+  },
+  {
+    "question": "What is a compact and ultralight portable camping chair in red that supports up to 265 lbs?",
+    "ground_truth_answer": "UMI. Essentials Portable Camping Chair Compact Ultralight Folding Chair with Carry Bag for Hiking, Beach,Fishing,Outdoor Heavy Duty 265 lb Capacity Red",
+    "product_id": "B07HNJFGH4"
+  },
+  {
+    "question": "modern corner floating triangle shelf with natural wood and gold finish",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Modern Corner Floating Triangle 5 Shelf Wall Unit Decor - 36 Inch, Natural Wood and Gold",
+    "product_id": "B07HSLQY2F"
+  },
+  {
+    "question": "What is a latte-colored swivel chair with a sturdy wood frame and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Wolcott Swivel Chair, Fabric, 33\"W, Latte",
+    "product_id": "B07JY29YYP"
+  },
+  {
+    "question": "What is a stylish gray end table with a distressed wood grain finish and ample storage space?",
+    "ground_truth_answer": "Ameriwood Home Carver End Table, Gray/Sonoma Oak",
+    "product_id": "B01N3MBCKT"
+  },
+  {
+    "question": "What is the blush-colored chair model PB96-1LNNPTL?",
+    "ground_truth_answer": "PB96-1LNNPTL",
+    "product_id": "B073GCWSRW"
+  },
+  {
+    "question": "What is a modern grey weave loveseat with exposed solid wood base and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet North End Modern Wood Accent Loveseat Sofa Couch, 58.7\"W, Grey Weave",
+    "product_id": "B072M1WJC7"
+  },
+  {
+    "question": "What is a queen bed with a walnut finish and engineered wood?",
+    "ground_truth_answer": "Amazon Brand - Solimo Tucana Engineered Wood Queen Bed (Walnut Finish)",
+    "product_id": "B07L1CHBK7"
+  },
+  {
+    "question": "What is a vegan leather storage ottoman with rolled arms and cushy seating in black?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Chic Vegan Leather Storage Ottoman, 50\"W, Black",
+    "product_id": "B07M7NRPZR"
+  },
+  {
+    "question": "Which 92-inch wide dark roast leather reclining sofa is available from Amazon's Ravenna Home brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Maplewood Reclining Sofa, 92\"W, Leather, Dark Roast",
+    "product_id": "B07QBMQ729"
+  },
+  {
+    "question": "What is an espresso finish coffee table with a spacious tabletop and shelf for magazines?",
+    "ground_truth_answer": "Amazon Brand - Solimo Kaya Engineered Wood Coffee Table (Espresso Finish)",
+    "product_id": "B07STFRDFK"
+  },
+  {
+    "question": "mid-century modern leather sofa with channel-back in cognac color",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Damien Mid-Century Modern Channel-Backed Sofa, 87\"W, Leather, Cognac",
+    "product_id": "B07QJXW4VD"
+  },
+  {
+    "question": "What is a modern end table with a natural wood grain top and gold metal legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Modern End Table, 19.3 Inch Width, Natural and Gold",
+    "product_id": "B07HSKY87X"
+  },
+  {
+    "question": "What is a white coffee table with a lift-top for hidden storage?",
+    "ground_truth_answer": "AmazonBasics Lift-Top Storage Coffee Table, White",
+    "product_id": "B07J2B91QQ"
+  },
+  {
+    "question": "What is a chrome shelving unit with wheels that can hold up to 136 kg per shelf and is adjustable without tools?",
+    "ground_truth_answer": "AmazonBasics 5-Shelf Shelving Unit on Wheels - Chrome",
+    "product_id": "B00NUS5GXA"
+  },
+  {
+    "question": "What is a modern round ottoman with a lift-top storage tray in caviar color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Madison Modern Round Lift-Top Storage Tray Ottoman Pouf, 19.7\"W, Caviar",
+    "product_id": "B0728NWFGY"
+  },
+  {
+    "question": "queen bed with pewter nailhead trim in curious pearl color",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Tisbury Nailhead Trim Queen Bed, 66\"W, Curious Pearl",
+    "product_id": "B07B4W5V3C"
+  },
+  {
+    "question": "What is a black leather office guest chair with a metal frame and a 250-pound weight capacity?",
+    "ground_truth_answer": "AmazonBasics Classic Leather Office Desk Guest Chair with Metal Frame, Black",
+    "product_id": "B072Y5MZQH"
+  },
+  {
+    "question": "What is a gold leaf colored cube ottoman with a solid wood frame and polyester fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Modern Upholstered Cube Ottoman Pouf, 20\"W, Gold Leaf",
+    "product_id": "B075X4YDJT"
+  },
+  {
+    "question": "What is a farmhouse-style dining table with a hardwood top and iron base that can extend from 60 to 80 inches in length?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Hughes Casual Farmhouse Wood Dining Kitchen Table, 60-80\"L, Brown",
+    "product_id": "B07B85FJDF"
+  },
+  {
+    "question": "What is an adjustable Caribbean Blue lounge chair for the beach or pool?",
+    "ground_truth_answer": "Strathwood Adjustable Beach and Pool Lounge Chair, Caribbean Blue",
+    "product_id": "B000W8RYWM"
+  },
+  {
+    "question": "What is a round ottoman with top-grain leather and a light oak wood frame?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Norah Leather and Wood Round Ottoman, 39.5\", Saddle Brown",
+    "product_id": "B075X61WKJ"
+  },
+  {
+    "question": "What is a contemporary swivel chair with a canary color and cutout design?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Slade Contemporary Living Room Accent Swivel Chair, 27\"W, Canary",
+    "product_id": "B07QCMBCXJ"
+  },
+  {
+    "question": "What is a modern rectangular king headboard with button-tufting and beige fabric?",
+    "ground_truth_answer": "Ravenna Home Haraden Modern Rectangular Button-Tufted King Headboard, 82\"W, Beige",
+    "product_id": "B07QGWMXZ5"
+  },
+  {
+    "question": "What is a yellow mid-century modern armchair with tapered legs and a solid wood frame?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Sloane Mid-Century Modern Armchair with Tapered Legs, 32.7\"W, Yellow",
+    "product_id": "B07PBZ9CLJ"
+  },
+  {
+    "question": "What is a blue 3-seater sofa from Amazon Brand that is durable and safe with high-quality fabric?",
+    "ground_truth_answer": "Amazon Brand - Solimo Cosmos Fabric 3 seater Sofa (Blue)",
+    "product_id": "B07WN53W8K"
+  },
+  {
+    "question": "What is a gaming desk with storage for controllers, headphones, and speakers?",
+    "ground_truth_answer": "AmazonBasics Gaming Computer Desk with Storage for Controller, Headphone & Speaker - Black",
+    "product_id": "B07QX2BYDH"
+  },
+  {
+    "question": "What is a mid-century modern queen bed with a tufted headboard in charcoal color?",
+    "ground_truth_answer": "Rivet Kyler Mid-Century Upholstered Tufted Queen Bed with Headboard, 66\"W, Charcoal",
+    "product_id": "B075QG3JWL"
+  },
+  {
+    "question": "What is a compact turquoise accent sofa that is easy to assemble?",
+    "ground_truth_answer": "Movian Andre Accent Sofa Turquoise",
+    "product_id": "B07HPJ9V3J"
+  },
+  {
+    "question": "pearl-colored queen-size headboard with plush upholstery",
+    "ground_truth_answer": "Stone & Beam Glenwilde Queen Headboard, 75\"W, Pearl",
+    "product_id": "B07QBQCPMR"
+  },
+  {
+    "question": "What is a farmhouse style desk with a birch finish and a 60-inch width?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Casual Wood Office Computer Desk, 60\"W, Birch",
+    "product_id": "B07B7DL3GX"
+  },
+  {
+    "question": "What is a 93-inch contemporary sofa with stain-resistant fabric and removable cushions?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Westcott Contemporary 93\" Sofa, Fabric, 93\"W, Haze",
+    "product_id": "B07HYY8ZGY"
+  },
+  {
+    "question": "What is a dark grey extra-deep down-filled leather sofa by Amazon Brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Leather Sofa Couch, 89\"W, Dark Grey",
+    "product_id": "B082VLYQWX"
+  },
+  {
+    "question": "What is a modern ivory dining chair set with channel-back design and solid wood frame?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Contemporary Channel-Back Dining Chair, 35\"H, Ivory, Set of 2",
+    "product_id": "B07QFRSLZB"
+  },
+  {
+    "question": "What is a high-leg recliner chair in steel blue that doesn't require assembly?",
+    "ground_truth_answer": "Ravenna Home Alpine Upholstered High-Leg Recliner Chair, 39\"W, Steel Blue",
+    "product_id": "B085FJW92H"
+  },
+  {
+    "question": "What is a mid-century olive green velvet office chair with a gold finish and swivel feature?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Bertha Mid-Century Velvet-Upholstered Swivel Office Chair, 25.25\"W, Olive Green with Gold Finish",
+    "product_id": "B082BL4G1J"
+  },
+  {
+    "question": "What is a contemporary leather couch with a curved back and armrests in cognac color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Bayard Contemporary Leather Couch with Curved Back and Armrests, 76\"W, Cognac",
+    "product_id": "B082QDKRC5"
+  },
+  {
+    "question": "What is a blue Moroccan patterned accent chair with nailhead trim and wooden legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Kaiden Patterned Nailhead Accent Chair, 33\"W, Blue Moroccan",
+    "product_id": "B07DBDQLF2"
+  },
+  {
+    "question": "What is a set of 3 black corner bathroom shelves with strong suction for mounting?",
+    "ground_truth_answer": "Amazon Brand - Solimo Suction Corner Bathroom Rack/Shelf (Set of 3)",
+    "product_id": "B07C51891N"
+  },
+  {
+    "question": "What is a modern caramel leather loveseat with a tufted back and wooden legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Sloane Modern Leather Loveseat with Tufted Back, 64.2\"W, Caramel",
+    "product_id": "B07P5LN16X"
+  },
+  {
+    "question": "What is a farmhouse style sofa with English roll arms and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Brandeberry Farmhouse Charles of London Sofa, 82\"W, Stone",
+    "product_id": "B07B4MHTM6"
+  },
+  {
+    "question": "What is a mid-century queen bed with a tufted headboard in light gray fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Hillmoor Mid-Century Queen Bed with Headboard, 66\"W, Light Gray",
+    "product_id": "B07B4YXNR3"
+  },
+  {
+    "question": "What is a stain-resistant fabric recliner with a push-back mechanism and no assembly required?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Pinebrook Traditional Recliner, Fabric, 39\"W, Stone",
+    "product_id": "B07JY3NNPK"
+  },
+  {
+    "question": "modern caramel leather sofa with solid-wood frame",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Thomas Modern Leather Sofa Couch, 81.5\"W, Caramel",
+    "product_id": "B07JW72ZQ8"
+  },
+  {
+    "question": "What is a set of two beige dining chairs with curved-back design from Amazon Brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Lamberton Curved-Back Dining Chair, Set of 2, 19.5\"W, Beige",
+    "product_id": "B086JJQQZ3"
+  },
+  {
+    "question": "What is a light grey 3 seater sofa with Scandinavian style design and dimensions 228 x 87 x 78 cm?",
+    "ground_truth_answer": "Amazon Brand Movian Blankan 3 Seater Sofa, 228 x 87 x 78 cm, Light Grey",
+    "product_id": "B075NP5K3L"
+  },
+  {
+    "question": "Which 80-inch wide cognac leather sofa has a single bench cushion and brass legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Alonzo Contemporary Leather Sofa Couch, 80\"W, Cognac",
+    "product_id": "B07J2JGT7Y"
+  },
+  {
+    "question": "What outdoor arm chairs come in a set of 2 with all-weather cushions and require no assembly?",
+    "ground_truth_answer": "Strathwood Falkner Dining Arm Chairs, Set of 2",
+    "product_id": "B000HBVNGM"
+  },
+  {
+    "question": "What is a grey swivel glider recliner chair with a 360-degree rotation feature?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Contemporary Swivel Glider Recliner Chair, 33.9\"W, Smoke Grey",
+    "product_id": "B085FHBF21"
+  },
+  {
+    "question": "mid-century modern navy velvet sectional sofa with brass legs",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Eva Mid-Century Modern Tufted Velvet Down-Filled Sectional Sofa Couch, 87\"W, Navy",
+    "product_id": "B075X4QMW7"
+  },
+  {
+    "question": "What is a forest green sofa from Rivet that doesn't require assembly?",
+    "ground_truth_answer": "Forest Swatch, Rivet",
+    "product_id": "B07K29PDYS"
+  },
+  {
+    "question": "What is a mid-century style swivel office chair with curved arms and no assembly required?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Mid-Century Swope Curved Arm Swivel Office Chair, 26\"W, Felt Grey",
+    "product_id": "B075Z8769G"
+  },
+  {
+    "question": "What is a pink fabric hanging closet organizer with 3 shelves from an Amazon brand?",
+    "ground_truth_answer": "Amazon Brand - Solimo Printed Fabric Hanging Closet Organiser, 3 Shelves, Pink",
+    "product_id": "B07YGC6F4S"
+  },
+  {
+    "question": "What is a compact adjustable foam floor chair that swivels and is suitable for dorm rooms?",
+    "ground_truth_answer": "Amazonbasics Swivel Compact Adjustable Foam Floor Chair, Blue/White/Grey",
+    "product_id": "B07Q3WM678"
+  },
+  {
+    "question": "What is the model number of the Merlot Velvet chair?",
+    "ground_truth_answer": "PB5605VLVBR",
+    "product_id": "B073G7DN31"
+  },
+  {
+    "question": "What is a white and oak sliding door wardrobe with built-in bar and upper shelves?",
+    "ground_truth_answer": "Amazon Brand - Movian Loue Sliding Door Wardrobe, 183 x 60 x 202cm, White/Light Brown Oak-Effect",
+    "product_id": "B07JGY5LPJ"
+  },
+  {
+    "question": "mid-century modern dresser with six drawers and metal base in warm espresso finish",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Mid-Century Stark 6-Drawer Dresser, 61\"W, Warm Espresso",
+    "product_id": "B075YZ16V7"
+  },
+  {
+    "question": "What is a set of two gray dining chairs with flared backs and silver nailhead design?",
+    "ground_truth_answer": "Stone & Beam Flared-Back Dining Chair, 37\"H, Set of 2, Gray",
+    "product_id": "B07QBQFBBV"
+  },
+  {
+    "question": "What is the light grey headboard with a print design from Amazon Brand that is 160 x 110cm?",
+    "ground_truth_answer": "Amazon Brand - Movian Kolva \"Elle et Lui\" Headboard, 160 x 110cm, Light Grey with Print",
+    "product_id": "B07GFFY4TQ"
+  },
+  {
+    "question": "What is an 80-inch wide ash gray upholstered sofa from Amazon's Stone & Beam brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Troy Upholstered Sofa Couch, 80\"W, Ash Gray",
+    "product_id": "B082Q9C9YJ"
+  },
+  {
+    "question": "What is a Scandinavian style beige upholstered task chair with a brass-finished base and adjustable seat height?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Celine Upholstered Home Office Task Chair, 22.25\"W, Beige",
+    "product_id": "B082BLFMRC"
+  },
+  {
+    "question": "What is a cream herringbone queen headboard with pewter nailhead trim?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Bridgewater Curved Queen Headboard, 66\"W, Cream Herringbone",
+    "product_id": "B07B4ZGB6K"
+  },
+  {
+    "question": "What is a yellow chair from Stone & Beam that requires no assembly?",
+    "ground_truth_answer": "Yellow Swatch, Stone & Beam",
+    "product_id": "B07K35ZXB6"
+  },
+  {
+    "question": "What is a mid-century inspired accent chair with a Merlot red velvet fabric and traditional curved legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Tufted Armless English Roll Traditional Accent Chair, 26.8\"W, Merlot Red",
+    "product_id": "B07DBHCKHY"
+  },
+  {
+    "question": "What is a white end table with a storage shelf and an oak finish?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Traditional Solid Pine End Table, 23.62\"W, Oak Finish",
+    "product_id": "B07M6PKCPV"
+  },
+  {
+    "question": "What are some modern floating shelves with metal structure for living rooms and kitchens?",
+    "ground_truth_answer": "UMI. par Amazon - Etag\u00e8res Murales Lot de 3 \u00e9tag\u00e8res Flottantes avec Structure en M\u00e9tal,pour Salons Chambres Cuisines Bureau Moderne Maison D\u00e9coration",
+    "product_id": "B07W6LSQSH"
+  },
+  {
+    "question": "What grey coffee table has a lower shelf and turned legs?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Angela Modern Turned Leg Wood Shelf Storage Coffee Table, 44\"W, Grey",
+    "product_id": "B07DBFT2YG"
+  },
+  {
+    "question": "mid-century 2-drawer file cabinet with pine finish and antique bronze handles",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Mid-Century 2-Drawer File Cabinet, 21.7\"W, Pine Finish",
+    "product_id": "B082JH6LSF"
+  },
+  {
+    "question": "What is a modern dark tan accent chair with reversible cushions and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Andover Modern Living Room Accent Chair, 38\"W, Dark Tan",
+    "product_id": "B07B4MPXKJ"
+  },
+  {
+    "question": "queen bed with pewter nailhead trim and Spinnsol Cocoa color",
+    "ground_truth_answer": "Stone & Beam Tisbury Nailhead Trim Queen Bed, 66\"W, Spinnsol Cocoa",
+    "product_id": "B07B4SCB6T"
+  },
+  {
+    "question": "What is a modern farmhouse coffee table with antique gray pine finish and black metal accents?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Modern Farmhouse Coffee Table, 40\"W, Antique Gray Pine",
+    "product_id": "B084T9X9NN"
+  },
+  {
+    "question": "What is a compact walnut effect end table with industrial black metal legs?",
+    "ground_truth_answer": "Amazon Brand - Movian Kyyvesi, End Table, 50 x 50 x 45 cm, Walnut Effect",
+    "product_id": "B07VB7QF86"
+  },
+  {
+    "question": "What is a beige rolled arm chair with a wood frame and polyester fabric that requires less than 30 minutes to assemble?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Dunford Casual Rolled Arm Chair, 37\"W, Beige",
+    "product_id": "B07DBGXFVF"
+  },
+  {
+    "question": "What is a cream-colored loveseat sofa with extra-deep down-filled cushions from Amazon Brand?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Westview Extra-Deep Down-Filled Loveseat Sofa Couch, 75.6\"W, Cream",
+    "product_id": "B082VKTV1P"
+  },
+  {
+    "question": "What is a round coffee table with white top and light brown solid wood legs that is 60cm in diameter?",
+    "ground_truth_answer": "Amazon Brand - Movian \u0110erdap Round Coffee Table with Solid Wood Legs, 60 x 60 x 40cm, White Top/Light Brown Legs",
+    "product_id": "B07TNKZ6MV"
+  },
+  {
+    "question": "What is a black 3-door wardrobe made of solid pine wood with distressed waxed finish?",
+    "ground_truth_answer": "Vida Designs Corona Wardrobe, 3 Door, Solid Pine Wood, Solid Pine Wood, Distressed Waxed Pine Bedroom Wooden Storage Mexican Furniture",
+    "product_id": "B07B3XXD3P"
+  },
+  {
+    "question": "What is a black mid-back mesh chair with contoured seat and pneumatic height adjustment for office use?",
+    "ground_truth_answer": "AmazonBasics Mid-Back Mesh Chair, with Contoured Mesh Seat for Extra Breathability - Black (Renewed)",
+    "product_id": "B086GM9TTD"
+  },
+  {
+    "question": "What is a 48-inch round dining table with an umbrella hole for outdoor use?",
+    "ground_truth_answer": "Strathwood Grand Isle 48-Inch Round Dining Table with Umbrella Hole",
+    "product_id": "B002KMI97W"
+  },
+  {
+    "question": "What is a 67-inch wide grey loveseat sofa with reversible cushions and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Andover Modern Loveseat Sofa, 67\"W, Grey",
+    "product_id": "B07B4MF6S6"
+  },
+  {
+    "question": "What is a BIFMA certified gaming chair with a removable headrest and high back cushion in red?",
+    "ground_truth_answer": "AmazonBasics BIFMA Certified Gaming/Racing Style Office Chair - with Removable Headrest and High Back Cushion - Red (Renewed)",
+    "product_id": "B07YN9B81V"
+  },
+  {
+    "question": "modern small side table with walnut veneer top and black metal legs",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Bristol Natural Edge Black Metal Side Table, Walnut",
+    "product_id": "B072ZLCB3M"
+  },
+  {
+    "question": "What is a gray outdoor patio dining table with an umbrella hole and rust-resistant steel frame?",
+    "ground_truth_answer": "Amazon Brand - Ravenna Home Archer Outdoor Patio Steel Dining Table with Panel Top, 66.14\"W, Gray",
+    "product_id": "B082VSXML3"
+  },
+  {
+    "question": "What is a modern armless accent chair in denim color with a beech wood frame?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Lummi Modern Armless Living Room Accent Chair, 21.6\" W, Denim",
+    "product_id": "B07BWJCZJX"
+  },
+  {
+    "question": "What is a natural-colored folding tray table with a removable tabletop that can be used as a serving tray?",
+    "ground_truth_answer": "Strathwood Griffen All-Weather Garden Furniture - Wicker / Poly Rattan Folding Tray Table, Natural",
+    "product_id": "B00GBUN94W"
+  },
+  {
+    "question": "Which queen bed has a mid-century modern design with a silver grey fabric and extended platform sides?",
+    "ground_truth_answer": "Rivet York Modern Extended Platform Queen Bed, 90.2\"L, Grey",
+    "product_id": "B075QFCHM9"
+  },
+  {
+    "question": "What is a modern coffee table with a mixed gray finish and soft-closing drawers?",
+    "ground_truth_answer": "Stone & Beam Rylee Modern Coffee Table 19.69\"H, Mixed Gray",
+    "product_id": "B07HSMYNYF"
+  },
+  {
+    "question": "What is a gray upholstered headboard with adjustable height and a curved design for a queen bed?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Curved Upholstered Headboard, Queen, 60\"W, Gray",
+    "product_id": "B0853JGLT7"
+  },
+  {
+    "question": "left-facing corner sofa with stain-resistant fabric in stone color",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Bagley Sectional Component, Left-Facing Corner Sofa, Fabric, 90\"W, Stone",
+    "product_id": "B07HZ4ZQS7"
+  },
+  {
+    "question": "What is a set of 2 cream leather dining chairs with a solid oak and ash veneer frame?",
+    "ground_truth_answer": "Pinzon Kinzie Leather Dining Chair, Cream",
+    "product_id": "B001BQ1Q9G"
+  },
+  {
+    "question": "What is a modern right-facing L-shape leather sectional sofa with metal legs and reversible cushions?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Edgewest Modern Right-Facing L-Shape Sectional, Leather, 116\"W, Saddle",
+    "product_id": "B07BWK7JWZ"
+  },
+  {
+    "question": "What is a king-size headboard in honey pine that can be assembled in 15 minutes?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Solid Pine Flat-Topped Headboard - King, 80.9 Inch, Honey Pine",
+    "product_id": "B07MJJWYS8"
+  },
+  {
+    "question": "What is a modern grey ottoman with a 32-inch width and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Andover Modern Rectangle Ottoman, 32\"W, Grey",
+    "product_id": "B07B4MN1L2"
+  },
+  {
+    "question": "What is a rustic wood nightstand with a reclaimed-look and an iron base?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Fisher Rustic Wood Nightstand, 22\", Reclaimed-Look Wood",
+    "product_id": "B07B4W2ZFM"
+  },
+  {
+    "question": "What is a solid wood dining table that seats 4-6 people and is made of wild oak?",
+    "ground_truth_answer": "Amazon Brand - Alkove Hayes Classic Fixed Solid Wood Dining Table, Seats 4-6, 130 x 90 x 75cm, Wild Oak",
+    "product_id": "B07SJ75Y1M"
+  },
+  {
+    "question": "What is a slim, adjustable shelf unit that fits into small spaces and complies with FSC regulations?",
+    "ground_truth_answer": "Iris Shelf Unit",
+    "product_id": "B07TZ9BMJG"
+  },
+  {
+    "question": "What is an espresso finish coffee table with a spacious tabletop and shelf for magazines?",
+    "ground_truth_answer": "Amazon Brand - Solimo Veronica Engineered Wood Coffee Table (Espresso Finish)",
+    "product_id": "B07SQ9P548"
+  },
+  {
+    "question": "What is a white gaming chair with a rocker function and adjustable height?",
+    "ground_truth_answer": "UMI Gaming Chair Office Chair Desk Chair with Rocker Function Gamer Chair Fabric Height Adjustable Swivel Chair PC Chair Ergonomic Executive Chair",
+    "product_id": "B07DC168ZT"
+  },
+  {
+    "question": "Where can I find a set of 2 medium brown dining chairs with pierced splat back design?",
+    "ground_truth_answer": "Ashley Furniture Signature Design - Leahlyn Dining Upholstered Side Chair - Pierced Splat Back - Set of 2 - Medium Brown",
+    "product_id": "B00EUL2B16"
+  },
+  {
+    "question": "What are some light grey dining chairs with rubberwood legs and ergonomic design?",
+    "ground_truth_answer": "Amazon Brand - Movian Arendsee Set of 2 Dining Chairs, 55 x 48.5 x 85 cm, Light grey",
+    "product_id": "B07QTD9VPM"
+  },
+  {
+    "question": "What is a light grey ottoman bench with nailhead trim and storage?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Barrow Nailhead Storage Ottoman Bench, 35.5\"W, Light Grey",
+    "product_id": "B07DB8V5PB"
+  },
+  {
+    "question": "What is an off-white ceramic garden stool with a damask pattern that can be used as a side table?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Damask-Pattern Ceramic Garden Stool or Side Table, 16\"H, Off-White",
+    "product_id": "B07MF1SRH5"
+  },
+  {
+    "question": "What is a mid-century style barrel accent chair with nailhead trim in charcoal grey?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Ryleigh Rounded Mid-Century Barrel Accent Chair, 27.5\"W, Charcoal Grey",
+    "product_id": "B07DBHCKJ5"
+  },
+  {
+    "question": "What is a modern accent chair with sweeping arms and a damask taupe color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Modern Sweeping Arm Accent Chair, 28\"W, Damask Taupe",
+    "product_id": "B073G856FB"
+  },
+  {
+    "question": "What is a compact desk with a high-gloss white finish and a single drawer?",
+    "ground_truth_answer": "Amazon Brand - Movian Mj\u00f8sa - Compact Desk with 1 Drawer, 79 x 44 x 76 cm, High-Gloss White",
+    "product_id": "B07K6S2G6J"
+  },
+  {
+    "question": "king size yellow and cream trellis pattern upholstered headboard with plywood and metal legs",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Trellis Pattern Upholstered Headboard - King, 77.6 Inch, Yellow and Cream",
+    "product_id": "B07MCCRNLV"
+  },
+  {
+    "question": "What is a Scandinavian style grey chair with dimensions 100 x 93 x 86 cm?",
+    "ground_truth_answer": "Amazon Brand Movian Dofsan Chair 100 x 93 x 86 cm Grey",
+    "product_id": "B075NR8HWJ"
+  },
+  {
+    "question": "What is a 126-inch wide charcoal sectional sofa with a right chaise and stain-resistant fabric?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Andover Modern Right Chaise Sofa Sectional, 126\"W, Charcoal",
+    "product_id": "B07B4NW6J9"
+  },
+  {
+    "question": "What is a set of two outdoor sling arm chairs made of cast aluminum with lumbar support?",
+    "ground_truth_answer": "Strathwood Naples Sling Arm Chair, Set of 2",
+    "product_id": "B000HBVO5W"
+  },
+  {
+    "question": "What is a mid-century modern dining bench made of reclaimed fir that is 18 inches in height?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Boundary Mid-Century Modern Dining Kitchen Wood Bench, 18 Inch Height, Brown",
+    "product_id": "B07B7BX336"
+  },
+  {
+    "question": "What is a 76-inch wide sand-colored loveseat with performance fabric and no assembly required?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Kristin Round Arm Performance Fabric Loveseat Sofa Couch, 76\"W, Sand",
+    "product_id": "B071W5VCTH"
+  },
+  {
+    "question": "What is a set of 2 outdoor dining chairs with all-weather cushions and no assembly required?",
+    "ground_truth_answer": "Strathwood Falkner Dining Side Chair, Set of 2",
+    "product_id": "B000K6GK0I"
+  },
+  {
+    "question": "What is a traditional leather recliner with a modern design in driftwood color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Edmunds Traditional Leather Recliner, 30\"W, Driftwood",
+    "product_id": "B07B4MD55M"
+  },
+  {
+    "question": "What is a grey ceramic garden stool with a clover pattern that can also be used as a side table?",
+    "ground_truth_answer": "Amazon Brand \u2013 Ravenna Home Clover-Pattern Ceramic Garden Stool or Side Table, 16\"H, Grey",
+    "product_id": "B07MBFDHRY"
+  },
+  {
+    "question": "What is a light brown oak-effect shoe cabinet that can store up to 24 pairs of shoes?",
+    "ground_truth_answer": "Amazon Brand - Movian Inari 3-door Shoe Cabinet/Cupboard/Organizer, 25 x 75 x 128 cm, Light Brown Oak-Effect",
+    "product_id": "B07GFS1R7X"
+  },
+  {
+    "question": "What is a 48-inch round outdoor dining table made of all-weather wicker and aluminium?",
+    "ground_truth_answer": "Strathwood Garden Furniture - Padre All-Weather Wicker / Poly Rattan 48-Inch / 122 cm Round Dining Table",
+    "product_id": "B002KMI990"
+  },
+  {
+    "question": "What is a renewed brown recliner chair with faux leather and extra padding for small living spaces?",
+    "ground_truth_answer": "AmazonBasics Classic Faux Leather Extra Padded Recliner Chair - Brown (Renewed)",
+    "product_id": "B083H3WMT3"
+  },
+  {
+    "question": "What is a rustic bookcase made of reclaimed wood with a white and sandstone finish?",
+    "ground_truth_answer": "Amazon Brand \u2013 Stone & Beam Barrett Reclaimed Wood 4-Shelf Bookcase, 40\"W, White and Sandstone Pine",
+    "product_id": "B075ZF4S39"
+  },
+  {
+    "question": "What is a solid wood headboard in charcoal gray that fits a queen bed and has a modern farmhouse style?",
+    "ground_truth_answer": "Amazon Brand - Stone & Beam Modern Farmhouse Solid Wood Headboard, Queen, 64\"W, Charcoal Gray",
+    "product_id": "B084MXWPF3"
+  },
+  {
+    "question": "What is a modern loveseat with a low back in rouge red color?",
+    "ground_truth_answer": "Amazon Brand \u2013 Rivet Edgewest Low Back Modern Loveseat, 65\"W, Rouge Red",
+    "product_id": "B07B4NVYM9"
+  }
+]

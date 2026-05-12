@@ -1,0 +1,37 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.local
+*.key
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.claude/
+.idea/
+.vscode/
+
+# Large / regenerable data artefacts
+data/raw/
+data/embeddings/*.npy
+data/embeddings/*.index
+
+# Logs
+*.log
+*.err
+streamlit.log
+streamlit.err
+
+# Demo video (host externally, link from README)
+*.mp4
+*.mov
+*.webm
+demo/Final_demo_video.mp4
