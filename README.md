@@ -9,7 +9,7 @@ visually relevant products plus a grounded one-sentence answer.
 Built with **CLIP ViT-B/32** for cross-modal retrieval, **FAISS** for cosine
 search, and **GPT-4o** as a vision-LLM re-ranker.
 
-- **Demo video:** *(link will be added after upload)*
+- **Demo video:** <https://drive.google.com/drive/folders/1UQDMY3QsPpgrMT2Xeb9V1IT2Nfmk9mXM?usp=sharing>
 - **Final report (PDF):** `au2327.pdf` *(see CourseWorks submission)*
 - **Presentation deck:** [`docs/au2327_Final_Project_Presentation.pptx`](docs/au2327_Final_Project_Presentation.pptx)
 
@@ -189,7 +189,7 @@ hits = retrieval.search_image("demo/images/1_navy_velvet_sectional.jpg", k=5)
 ## Dataset
 
 This project uses the public, CC-BY-licensed **Amazon Berkeley Objects (ABO)**
-catalog (Collins et al., CVPR 2022). We curated a 2,711-product furniture
+catalog (Collins et al., CVPR 2022). I curated a 2,711-product furniture
 subset with English-language metadata and 256-px product images. The full ABO
 release is at:
 <https://amazon-berkeley-objects.s3.amazonaws.com/index.html>
